@@ -1,5 +1,16 @@
 # CTF (Capture The Flag)
 
+## Referensi belajar
+
+- [**Belajar linux fundamentals**](https://youtube.com/playlist?list=PLbLqbqNn7VYpnd7FggSeq18AgE4gdsy2F&si=yvxohtzsbHkPKcrI)
+
+- [**General Skill**](https://youtube.com/playlist?list=PLvo0ImRdaj2GBaAYrYlLFmvocIoQRNcYp&si=Y3Ziko-6eRkVhYJb)
+  Setelah belajar linux dasar lanjut studi kasus CTF menggunakan platfrom [picoCTF](https://picoctf.org/). **Disarankan untuk menyelesaikannya secara mandiri**
+
+## Channel youtube mengenai cyber security atau ctf
+
+- [**John Hammond**](https://www.youtube.com/@_JohnHammond)
+
 ## Web Decode & Encode
 
 - [**Cipher Identifier**](https://www.dcode.fr/cipher-identifier)
