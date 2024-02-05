@@ -26,6 +26,9 @@
 - [**Stegcracker**](https://github.com/Paradoxis/StegCracker)
   StegCracker adalah utilitas brute force steganografi untuk mengungkap data tersembunyi di dalam file.
 
+- [**Steghide**](https://www.geeksforgeeks.org/how-to-install-steghide-tool-in-linux/)
+  Steghide adalah alat steganografi. Tujuan utama alat ini adalah untuk menyembunyikan data rahasia dalam file gambar atau audio.
+
 ## Teks Editor
 
 - [**Gheany**](https://www.geany.org/download/third-party/)
