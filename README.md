@@ -45,7 +45,14 @@
   Hashcat adalah alat peretas kata sandi yang digunakan untuk tujuan sah dan terlarang. Hashat adalah alat peretasan yang sangat cepat, efisien, dan serbaguna yang membantu serangan brute force dengan melakukan serangan menggunakan nilai hash kata sandi yang ditebak atau diterapkan oleh alat tersebut.
 
 - [**Exiftool**](https://www.geeksforgeeks.org/installing-and-using-exiftool-on-linux/)
-  ExifTool is a free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata. It is platform independent, available as both a Perl library
+  ExifTool adalah program perangkat lunak sumber terbuka dan gratis untuk membaca, menulis, dan memanipulasi metadata gambar, audio, video, dan PDF. Ini adalah platform independen, tersedia sebagai perpustakaan Perl
+
+- [**Tshark**](https://tshark.dev/setup/)
+  TShark adalah penganalisa protokol jaringan. Ini memungkinkan Anda menangkap data paket dari jaringan langsung, atau membaca paket dari file pengambilan yang disimpan sebelumnya, baik mencetak bentuk dekode paket tersebut ke output standar atau menulis paket ke file.
+
+- [**WireShark**](https://westoahu.hawaii.edu/cyber/forensics-weekly-executive-summmaries/real-time-forensics-hunting-with-wireshark/)
+  Wireshark memiliki banyak kegunaan, termasuk mengatasi masalah jaringan yang memiliki masalah kinerja. Profesional keamanan siber sering menggunakan Wireshark untuk melacak koneksi, melihat konten transaksi jaringan yang mencurigakan, dan mengidentifikasi lonjakan lalu lintas jaringan.
+
 
 ## Teks Editor
 
