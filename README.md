@@ -50,8 +50,18 @@
 - [**Tshark**](https://tshark.dev/setup/)
   TShark adalah penganalisa protokol jaringan. Ini memungkinkan Anda menangkap data paket dari jaringan langsung, atau membaca paket dari file pengambilan yang disimpan sebelumnya, baik mencetak bentuk dekode paket tersebut ke output standar atau menulis paket ke file.
 
+- [**Fcrackzip**](https://www.kali.org/tools/fcrackzip/)
+  Fcrackzip adalah cracker kata sandi cepat yang sebagian ditulis dalam assembler. Ia mampu memecahkan file zip yang dilindungi kata sandi dengan serangan brute force atau berbasis kamus, secara opsional menguji dengan unzip hasilnya. Itu juga dapat memecahkan gambar yang di-cpmask.
+
 - [**WireShark**](https://westoahu.hawaii.edu/cyber/forensics-weekly-executive-summmaries/real-time-forensics-hunting-with-wireshark/)
   Wireshark memiliki banyak kegunaan, termasuk mengatasi masalah jaringan yang memiliki masalah kinerja. Profesional keamanan siber sering menggunakan Wireshark untuk melacak koneksi, melihat konten transaksi jaringan yang mencurigakan, dan mengidentifikasi lonjakan lalu lintas jaringan.
+
+
+
+## Miscellanous
+
+- [**PGP**](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
+  Pretty Good Privacy (PGP) adalah program keamanan yang digunakan untuk mendekripsi dan mengenkripsi email serta mengautentikasi pesan email melalui tanda tangan digital dan enkripsi file. PGP pertama kali dirancang dan dikembangkan pada tahun 1991 oleh Paul Zimmerman, seorang aktivis politik.
 
 
 ## Teks Editor
