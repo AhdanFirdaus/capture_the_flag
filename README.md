@@ -7,6 +7,9 @@
 - [**General Skill**](https://youtube.com/playlist?list=PLvo0ImRdaj2GBaAYrYlLFmvocIoQRNcYp&si=Y3Ziko-6eRkVhYJb)
   Setelah belajar linux dasar lanjut studi kasus CTF menggunakan platfrom [picoCTF](https://picoctf.org/). **Disarankan untuk menyelesaikannya secara mandiri**
 
+- [**Belajar Crypto**](https://cryptohack.org)
+  Mendalami ctf kategori crypto bisa belajar melalui situs ini.
+
 ## Channel youtube mengenai cyber security atau ctf
 
 - [**John Hammond**](https://www.youtube.com/@_JohnHammond)
