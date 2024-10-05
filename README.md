@@ -10,6 +10,9 @@
 - [**Belajar Crypto**](https://cryptohack.org)
   Mendalami ctf kategori crypto bisa belajar melalui situs ini.
 
+- [**Belajar Web Exploitation**](https://portswigger.net/)
+  Platform populer untuk belajar keamanan web, khususnya web exploitation. Melalui PortSwigger Web Security Academy, kamu bisa belajar berbagai teknik eksploitasi web seperti SQL Injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), dan banyak lagi.
+
 ## Channel youtube mengenai cyber security atau ctf
 
 - [**John Hammond**](https://www.youtube.com/@_JohnHammond)
@@ -38,6 +41,9 @@
 
 - [**Steghide**](https://www.geeksforgeeks.org/how-to-install-steghide-tool-in-linux/)
   Steghide adalah alat steganografi. Tujuan utama alat ini adalah untuk menyembunyikan data rahasia dalam file gambar atau audio.
+
+- [**Zsteg**](https://github.com/zed-0xff/zsteg)
+  zsteg adalah sebuah tool yang digunakan untuk mendeteksi dan mengekstrak data tersembunyi (steganografi) dalam file gambar, terutama format PNG dan BMP. Tool ini memindai file gambar untuk mencari pola-pola yang mungkin mengandung data yang disisipkan secara tersembunyi menggunakan berbagai teknik steganografi, seperti manipulasi bit atau byte yang tersembunyi dalam warna atau metadata gambar.
 
 - [**Binwalk**](https://howtoinstall.co/package/binwalk)
   Binwalk adalah alat yang hebat ketika kita memiliki gambar biner dan harus mengekstrak file yang disematkan dan kode yang dapat dieksekusi darinya. Ia bahkan digunakan untuk mengidentifikasi file dan kode yang tertanam di dalam gambar firmware.
@@ -72,7 +78,7 @@
 - [**Foremost**](https://www-maketecheasier-com.translate.goog/use-foremost-recover-deleted-files-linux/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
   Untuk memulihkan file apa pun yang telah di hapus.
 
-## Cryptography
+### Cryptography
 
 - [**Sstv**](https://github.com/colaclanth/sstv)
   Untuk merubah suara menjadi gambar.
@@ -80,12 +86,17 @@
 - [**Sonic Visualiser**](https://www.sonicvisualiser.org/)
   Sonic Visualiser adalah aplikasi untuk melihat dan menganalisis isi file audio musik.
 
-## Miscellanous
+### Miscellanous
 
 - [**PGP**](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
   Pretty Good Privacy (PGP) adalah program keamanan yang digunakan untuk mendekripsi dan mengenkripsi email serta mengautentikasi pesan email melalui tanda tangan digital dan enkripsi file. PGP pertama kali dirancang dan dikembangkan pada tahun 1991 oleh Paul Zimmerman, seorang aktivis politik.
 
-## Teks Editor
+### Reverse Engineering
+
+- [**Ida64**](https://hex-rays.com/ida-free)
+  IDA64 adalah versi 64-bit dari IDA Pro, yaitu sebuah disassembler dan debugger yang digunakan untuk reverse engineering perangkat lunak. IDA64 secara khusus mendukung arsitektur 64-bit, memungkinkan analis untuk memeriksa dan membongkar kode biner yang berjalan pada sistem 64-bit.
+
+### Teks Editor
 
 - [**Gheany**](https://www.geany.org/download/third-party/)
   Geany adalah editor teks yang dirancang untuk menjadi ringan dan cepat, namun menyediakan beberapa fitur yang membuatnya berguna untuk berbagai tujuan.
