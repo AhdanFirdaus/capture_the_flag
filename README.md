@@ -32,6 +32,9 @@
 - [**Boxentriq**](https://www.boxentriq.com/)
   Boxentriq juga berguna untuk menganalisis pesan atau data yang terenkripsi.
 
+- [**Tio**](https://tio.run/)
+  TIO adalah sebuah platform online yang memungkinkan kamu menjalankan kode di berbagai bahasa pemrograman langsung dari browser tanpa perlu menginstal apa pun di komputer. TIO mendukung banyak bahasa pemrograman, termasuk bahasa populer seperti Python, C, C++, JavaScript, dan banyak lainnya.
+
 ## Tools
 
 ### Forensic
@@ -91,6 +94,11 @@
 - [**PGP**](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
   Pretty Good Privacy (PGP) adalah program keamanan yang digunakan untuk mendekripsi dan mengenkripsi email serta mengautentikasi pesan email melalui tanda tangan digital dan enkripsi file. PGP pertama kali dirancang dan dikembangkan pada tahun 1991 oleh Paul Zimmerman, seorang aktivis politik.
 
+### Osint
+
+- [**Shadow Finder**](https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb#scrollTo=THK5ucX5vpP9)
+  Alat untuk memperkirakan titik-titik di permukaan Bumi tempat bayangan dengan panjang tertentu dapat terjadi, untuk tujuan geolokasi.Menggunakan tinggi objek dan panjang bayangannya (atau sudut terhadap matahari) dengan tanggal dan waktu, kode ini memperkirakan kemungkinan lokasi bayangan tersebut.
+
 ### Reverse Engineering
 
 - [**Ida64**](https://hex-rays.com/ida-free)
@@ -100,5 +108,6 @@
 
 - [**Gheany**](https://www.geany.org/download/third-party/)
   Geany adalah editor teks yang dirancang untuk menjadi ringan dan cepat, namun menyediakan beberapa fitur yang membuatnya berguna untuk berbagai tujuan.
+  
 - [**SublimeText4**](https://www.sublimetext.com/download)
   Sublime Text adalah salah satu editor teks paling populer di dunia. Itu penuh dengan fitur canggih seperti pengeditan multi-baris
