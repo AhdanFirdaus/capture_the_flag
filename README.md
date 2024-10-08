@@ -39,6 +39,9 @@
 
 ### Forensic
 
+- [**Stegseek**](https://github.com/RickdeJager/stegseek)
+  Stegseek adalah alat yang sangat cepat untuk menemukan dan mengekstrak data tersembunyi dari file yang disisipkan menggunakan teknik steganografi, terutama pada gambar yang menggunakan algoritma seperti steghide. Stegseek dapat digunakan untuk memecahkan sandi dan mengekstrak informasi tersembunyi tanpa perlu mengetahui kata sandi atau passphrase secara spesifik, sering digunakan dalam CTF (Capture The Flag) untuk analisis steganografi.
+
 - [**Stegcracker**](https://github.com/Paradoxis/StegCracker)
   StegCracker adalah utilitas brute force steganografi untuk mengungkap data tersembunyi di dalam file.
 
@@ -47,6 +50,9 @@
 
 - [**Zsteg**](https://github.com/zed-0xff/zsteg)
   zsteg adalah sebuah tool yang digunakan untuk mendeteksi dan mengekstrak data tersembunyi (steganografi) dalam file gambar, terutama format PNG dan BMP. Tool ini memindai file gambar untuk mencari pola-pola yang mungkin mengandung data yang disisipkan secara tersembunyi menggunakan berbagai teknik steganografi, seperti manipulasi bit atau byte yang tersembunyi dalam warna atau metadata gambar.
+
+- [**FTK Imager**](https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-1)
+  FTK Imager adalah perangkat lunak forensik yang digunakan untuk membuat salinan (image) forensik dari media penyimpanan, seperti hard drive, flash drive, atau file image lainnya. FTK Imager dapat digunakan untuk melihat file sistem yang tersembunyi, terenkripsi, atau dihapus tanpa memodifikasi data asli, menjadikannya alat penting dalam investigasi digital untuk menjaga integritas bukti.
 
 - [**Binwalk**](https://howtoinstall.co/package/binwalk)
   Binwalk adalah alat yang hebat ketika kita memiliki gambar biner dan harus mengekstrak file yang disematkan dan kode yang dapat dieksekusi darinya. Ia bahkan digunakan untuk mengidentifikasi file dan kode yang tertanam di dalam gambar firmware.
