@@ -35,6 +35,9 @@
 - [**Tio**](https://tio.run/)
   TIO adalah sebuah platform online yang memungkinkan kamu menjalankan kode di berbagai bahasa pemrograman langsung dari browser tanpa perlu menginstal apa pun di komputer. TIO mendukung banyak bahasa pemrograman, termasuk bahasa populer seperti Python, C, C++, JavaScript, dan banyak lainnya.
 
+- [**MorseFM**](https://morsefm.com/)
+  MorseFM adalah situs yang menyediakan alat pengubah kode Morse dari audio menjadi teks. Pengguna dapat mengunggah file audio dalam format seperti MP3 dan WAV, kemudian alat ini secara cepat mengonversi sinyal Morse tersebut menjadi teks yang bisa dibaca.
+
 ## Tools
 
 ### Forensic
