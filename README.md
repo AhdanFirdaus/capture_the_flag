@@ -21,6 +21,10 @@
 
 - [**David Bombal**](https://www.youtube.com/@davidbombal)
 
+- [**CryptoCat**](https://www.youtube.com/@_CryptoCat)
+
+- [**CyberSecurityIPB**](https://www.youtube.com/@CyberSecurityIPB/videos)
+
 ## Web Decode & Encode
 
 - [**Cipher Identifier**](https://www.dcode.fr/cipher-identifier)
