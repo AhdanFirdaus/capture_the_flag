@@ -94,8 +94,6 @@
 - [**Foremost**](https://www-maketecheasier-com.translate.goog/use-foremost-recover-deleted-files-linux/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
   Untuk memulihkan file apa pun yang telah di hapus.
 
-### Cryptography
-
 - [**Sstv**](https://github.com/colaclanth/sstv)
   Untuk merubah suara menjadi gambar.
 
