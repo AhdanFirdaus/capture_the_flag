@@ -117,6 +117,9 @@
 
 ### Teks Editor
 
+- [**VS Code**](https://code.visualstudio.com/)
+  Visual Studio Code (VSCode) adalah editor kode sumber ringan dan gratis dari Microsoft, mendukung banyak bahasa pemrograman. Cocok untuk CTF karena fitur seperti terminal terintegrasi, ekstensi debugging, Git, dan dukungan berbagai bahasa seperti Python, C, dan JavaScript.
+
 - [**Gheany**](https://www.geany.org/download/third-party/)
   Geany adalah editor teks yang dirancang untuk menjadi ringan dan cepat, namun menyediakan beberapa fitur yang membuatnya berguna untuk berbagai tujuan.
   
