@@ -100,6 +100,9 @@
 - [**Sonic Visualiser**](https://www.sonicvisualiser.org/)
   Sonic Visualiser adalah aplikasi untuk melihat dan menganalisis isi file audio musik.
 
+- [**Volatility**](https://github.com/volatilityfoundation/volatility)
+  Tool open-source untuk analisis memori forensik (memory forensics). Tool ini digunakan untuk mengekstrak dan menganalisis artefak digital dari dump memori (RAM).
+
 ### Miscellanous
 
 - [**PGP**](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
