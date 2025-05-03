@@ -113,7 +113,10 @@
 ### Reverse Engineering
 
 - [**Ida64**](https://hex-rays.com/ida-free)
-  IDA64 adalah versi 64-bit dari IDA Pro, yaitu sebuah disassembler dan debugger yang digunakan untuk reverse engineering perangkat lunak. IDA64 secara khusus mendukung arsitektur 64-bit, memungkinkan analis untuk memeriksa dan membongkar kode biner yang berjalan pada sistem 64-bit.
+  Adalah versi 64-bit dari IDA Pro, yaitu sebuah disassembler dan debugger yang digunakan untuk reverse engineering perangkat lunak. IDA64 secara khusus mendukung arsitektur 64-bit, memungkinkan analis untuk memeriksa dan membongkar kode biner yang berjalan pada sistem 64-bit.
+
+- [**Ghidra**](https://ghidra-sre.org/)
+  Sebuah reverse engineering tool open-source yang dikembangkan oleh National Security Agency (NSA) Amerika Serikat. Tool ini digunakan untuk menganalisis program biner atau executable tanpa memiliki source code-nya.
 
 ### Teks Editor
 
@@ -122,6 +125,5 @@
 
 - [**Gheany**](https://www.geany.org/download/third-party/)
   Geany adalah editor teks yang dirancang untuk menjadi ringan dan cepat, namun menyediakan beberapa fitur yang membuatnya berguna untuk berbagai tujuan.
-  
 - [**SublimeText4**](https://www.sublimetext.com/download)
   Sublime Text adalah salah satu editor teks paling populer di dunia. Itu penuh dengan fitur canggih seperti pengeditan multi-baris
