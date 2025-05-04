@@ -58,6 +58,9 @@
 - [**Steghide**](https://www.geeksforgeeks.org/how-to-install-steghide-tool-in-linux/)
   Steghide adalah alat steganografi. Tujuan utama alat ini adalah untuk menyembunyikan data rahasia dalam file gambar atau audio.
 
+- [**Stegsolve**](https://github.com/manisashank/stegsolve/blob/master/process%20to%20install%20stegsolve)
+  adalah alat steganografi berbasis Java yang digunakan untuk mendeteksi pesan tersembunyi melalui manipulasi warna dan bit.
+
 - [**Zsteg**](https://github.com/zed-0xff/zsteg)
   zsteg adalah sebuah tool yang digunakan untuk mendeteksi dan mengekstrak data tersembunyi (steganografi) dalam file gambar, terutama format PNG dan BMP. Tool ini memindai file gambar untuk mencari pola-pola yang mungkin mengandung data yang disisipkan secara tersembunyi menggunakan berbagai teknik steganografi, seperti manipulasi bit atau byte yang tersembunyi dalam warna atau metadata gambar.
 
