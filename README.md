@@ -42,6 +42,9 @@
 - [**MorseFM**](https://morsefm.com/)
   MorseFM adalah situs yang menyediakan alat pengubah kode Morse dari audio menjadi teks. Pengguna dapat mengunggah file audio dalam format seperti MP3 dan WAV, kemudian alat ini secara cepat mengonversi sinyal Morse tersebut menjadi teks yang bisa dibaca.
 
+- [**Crackstation**](https://crackstation.net/)
+  adalah tools crack hash kata sandi menggunakan tabel pencarian (lookup tables) besar yang telah dipra-komputasi. 
+
 ## Tools
 
 ### Forensic
