@@ -50,7 +50,7 @@
 ### Forensic
 
 - [**Stegseek**](https://github.com/RickdeJager/stegseek)
-  Stegseek adalah alat yang sangat cepat untuk menemukan dan mengekstrak data tersembunyi dari file yang disisipkan menggunakan teknik steganografi, terutama pada gambar yang menggunakan algoritma seperti steghide. Stegseek dapat digunakan untuk memecahkan sandi dan mengekstrak informasi tersembunyi tanpa perlu mengetahui kata sandi atau passphrase secara spesifik, sering digunakan dalam CTF (Capture The Flag) untuk analisis steganografi.
+  Stegseek adalah alat yang sangat cepat untuk menemukan dan mengekstrak data tersembunyi dari file yang disisipkan menggunakan teknik steganografi, terutama pada gambar yang menggunakan algoritma seperti steghide.
 
 - [**Stegcracker**](https://github.com/Paradoxis/StegCracker)
   StegCracker adalah utilitas brute force steganografi untuk mengungkap data tersembunyi di dalam file.
@@ -62,77 +62,273 @@
   adalah alat steganografi berbasis Java yang digunakan untuk mendeteksi pesan tersembunyi melalui manipulasi warna dan bit.
 
 - [**Zsteg**](https://github.com/zed-0xff/zsteg)
-  zsteg adalah sebuah tool yang digunakan untuk mendeteksi dan mengekstrak data tersembunyi (steganografi) dalam file gambar, terutama format PNG dan BMP. Tool ini memindai file gambar untuk mencari pola-pola yang mungkin mengandung data yang disisipkan secara tersembunyi menggunakan berbagai teknik steganografi, seperti manipulasi bit atau byte yang tersembunyi dalam warna atau metadata gambar.
+  zsteg adalah sebuah tool yang digunakan untuk mendeteksi dan mengekstrak data tersembunyi (steganografi) dalam file gambar, terutama format PNG dan BMP.
 
 - [**FTK Imager**](https://www.exterro.com/ftk-product-downloads/ftk-imager-version-4-7-1)
-  FTK Imager adalah perangkat lunak forensik yang digunakan untuk membuat salinan (image) forensik dari media penyimpanan, seperti hard drive, flash drive, atau file image lainnya. FTK Imager dapat digunakan untuk melihat file sistem yang tersembunyi, terenkripsi, atau dihapus tanpa memodifikasi data asli, menjadikannya alat penting dalam investigasi digital untuk menjaga integritas bukti.
+  FTK Imager adalah perangkat lunak forensik yang digunakan untuk membuat salinan (image) forensik dari media penyimpanan tanpa memodifikasi data asli.
 
 - [**Binwalk**](https://howtoinstall.co/package/binwalk)
-  Binwalk adalah alat yang hebat ketika kita memiliki gambar biner dan harus mengekstrak file yang disematkan dan kode yang dapat dieksekusi darinya. Ia bahkan digunakan untuk mengidentifikasi file dan kode yang tertanam di dalam gambar firmware.
+  Binwalk adalah alat untuk menganalisis dan mengekstrak file yang disematkan atau kode yang dapat dieksekusi di dalam gambar biner/firmware.
 
 - [**John The Ripper**](https://www.openwall.com/john/)
-  John the Ripper adalah alat yang hebat untuk memecahkan kata sandi file seperti file zip, file pdf, dll. File yang dilindungi kata sandi ini dapat dengan mudah didekripsi dengan john the ripper, ada banyak serangan yang sama di dalamnya seperti serangan brute force, serangan kamus, dll. .
+  John the Ripper adalah alat untuk memecahkan kata sandi berbagai format file (zip, pdf, hash) menggunakan serangan brute force dan kamus.
 
 - [**Hashcat**](https://hashcat.net/hashcat/)
-  Hashcat adalah alat peretas kata sandi yang digunakan untuk tujuan sah dan terlarang. Hashat adalah alat peretasan yang sangat cepat, efisien, dan serbaguna yang membantu serangan brute force dengan melakukan serangan menggunakan nilai hash kata sandi yang ditebak atau diterapkan oleh alat tersebut.
+  Hashcat adalah alat peretas kata sandi berbasis hash berkecepatan tinggi yang memanfaatkan akselerasi GPU.
 
 - [**Exiftool**](https://www.geeksforgeeks.org/installing-and-using-exiftool-on-linux/)
-  ExifTool adalah program perangkat lunak sumber terbuka dan gratis untuk membaca, menulis, dan memanipulasi metadata gambar, audio, video, dan PDF. Ini adalah platform independen, tersedia sebagai perpustakaan Perl
+  ExifTool adalah program sumber terbuka untuk membaca, menulis, dan memanipulasi metadata gambar, audio, video, dan PDF.
 
 - [**Tshark**](https://tshark.dev/setup/)
-  TShark adalah penganalisa protokol jaringan. Ini memungkinkan Anda menangkap data paket dari jaringan langsung, atau membaca paket dari file pengambilan yang disimpan sebelumnya, baik mencetak bentuk dekode paket tersebut ke output standar atau menulis paket ke file.
+  TShark adalah penganalisa protokol jaringan baris perintah (CLI) untuk menangkap dan menganalisis paket pcap.
 
 - [**Fcrackzip**](https://www.kali.org/tools/fcrackzip/)
-  Fcrackzip adalah cracker kata sandi cepat yang sebagian ditulis dalam assembler. Ia mampu memecahkan file zip yang dilindungi kata sandi dengan serangan brute force atau berbasis kamus, secara opsional menguji dengan unzip hasilnya. Itu juga dapat memecahkan gambar yang di-cpmask.
+  Fcrackzip adalah cracker kata sandi cepat untuk memecahkan file zip yang terenkripsi menggunakan brute force atau kamus.
 
 - [**WireShark**](https://westoahu.hawaii.edu/cyber/forensics-weekly-executive-summmaries/real-time-forensics-hunting-with-wireshark/)
-  Wireshark memiliki banyak kegunaan, termasuk mengatasi masalah jaringan yang memiliki masalah kinerja. Profesional keamanan siber sering menggunakan Wireshark untuk melacak koneksi, melihat konten transaksi jaringan yang mencurigakan, dan mengidentifikasi lonjakan lalu lintas jaringan.
+  Wireshark adalah penganalisis paket jaringan (GUI) untuk memantau lalu lintas jaringan, inspeksi protokol, dan analisis paket.
 
 - [**Qpdf**](https://installati-one.translate.goog/install-qpdf-kalilinux/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
-  QPDF adalah program yang dapat digunakan untuk linierisasi (pengoptimalan web), mengenkripsi (melindungi kata sandi), mendekripsi, dan memeriksa file PDF dari baris perintah.
+  QPDF adalah program CLI untuk enkripsi, dekripsi, linierisasi, dan transformasi file PDF.
 
 - [**Pdfcrack**](https://www-kali-org.translate.goog/tools/pdfcrack/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
-  PDFCrack adalah alat sederhana untuk memulihkan kata sandi dari dokumen pdf.
+  PDFCrack adalah alat untuk memulihkan kata sandi dari dokumen PDF.
 
 - [**Parser pdf**](https://www-kali-org.translate.goog/tools/pdf-parser/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
-  Alat ini akan mengurai dokumen PDF untuk mengidentifikasi elemen dasar yang digunakan dalam file yang dianalisis. Itu tidak akan merender dokumen PDF.
+  Alat untuk mengurai dokumen PDF guna mengidentifikasi elemen dan objek di dalam file PDF tanpa merendernya.
 
 - [**Foremost**](https://www-maketecheasier-com.translate.goog/use-foremost-recover-deleted-files-linux/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc)
-  Untuk memulihkan file apa pun yang telah di hapus.
+  Tool data carving untuk memulihkan file yang dihapus berdasarkan header dan footer file.
 
 - [**Sstv**](https://github.com/colaclanth/sstv)
-  Untuk merubah suara menjadi gambar.
+  Tool untuk mendekode sinyal audio Slow Scan Television (SSTV) menjadi gambar.
 
 - [**Sonic Visualiser**](https://www.sonicvisualiser.org/)
-  Sonic Visualiser adalah aplikasi untuk melihat dan menganalisis isi file audio musik.
+  Aplikasi untuk melihat dan menganalisis visual audio/spektrogram pada file musik dan rekaman suara.
 
 - [**Volatility**](https://github.com/volatilityfoundation/volatility)
-  Tool open-source untuk analisis memori forensik (memory forensics). Tool ini digunakan untuk mengekstrak dan menganalisis artefak digital dari dump memori (RAM).
+  Tool open-source untuk analisis memori forensik (memory forensics) dari dump RAM.
 
-### Miscellanous
+- [**CTF Usb Keyboard Parser**](https://github.com/5h4rrk/CTF-Usb_Keyboard_Parser) ([Gist Table](https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2))
+  Tool untuk mengekstrak dan mem-parsing ketikan keyboard USB (keystrokes) dari file tangkapan pcap/pcapng.
 
-- [**PGP**](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
-  Pretty Good Privacy (PGP) adalah program keamanan yang digunakan untuk mendekripsi dan mengenkripsi email serta mengautentikasi pesan email melalui tanda tangan digital dan enkripsi file. PGP pertama kali dirancang dan dikembangkan pada tahun 1991 oleh Paul Zimmerman, seorang aktivis politik.
+- [**bmc-tools**](https://github.com/ANSSI-FR/bmc-tools/)
+  Tool forensik untuk mem-parsing dan mengekstrak gambar dari cache Bitmap RDP Windows (.bmc / .bin).
 
-### Osint
+- [**bkcrack**](https://github.com/kimci86/bkcrack)
+  Tool untuk memecahkan enkripsi file ZIP warisan (ZipCrypto) menggunakan teknik known-plaintext attack.
 
-- [**Shadow Finder**](https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb#scrollTo=THK5ucX5vpP9)
-  Alat untuk memperkirakan titik-titik di permukaan Bumi tempat bayangan dengan panjang tertentu dapat terjadi, untuk tujuan geolokasi.Menggunakan tinggi objek dan panjang bayangannya (atau sudut terhadap matahari) dengan tanggal dan waktu, kode ini memperkirakan kemungkinan lokasi bayangan tersebut.
+- [**png-dimensions-bruteforcer**](https://github.com/cjharris18/png-dimensions-bruteforcer)
+  Tool untuk mencari dan memperbaiki dimensi lebar/tinggi gambar PNG yang rusak atau sengaja disembunyikan berdasarkan nilai CRC IHDR.
+
+- [**h264extractor**](https://github.com/volvet/h264extractor/tree/master)
+  Tool untuk mengekstrak aliran video H.264 / NAL units mentah dari payload paket jaringan atau file biner.
+
+- [**StegOnline**](https://georgeom.net/StegOnline/upload)
+  Alat steganografi gambar berbasis web untuk inspeksi bit plane, manipulasi warna, dan ekstraksi data tersembunyi.
+
+- [**volinux**](https://github.com/mattft0/volinux/tree/main)
+  Kumpulan profil Volatility siap pakai untuk analisis memori (RAM) pada berbagai distribusi Linux.
+
+- [**.DS_Store-parser**](https://github.com/hanwenzhu/.DS_Store-parser)
+  Tool Python untuk membaca dan mengekstrak informasi struktur direktori serta file dari file macOS `.DS_Store`.
+
+- [**Photo Forensics**](https://29a.ch/photo-forensics/#forensic-magnifier)
+  Alat forensik foto online (ELA, magnifier, metadata, clone detection) untuk mendeteksi manipulasi gambar.
+
+- [**HxD**](https://mh-nexus.de/en/hxd/)
+  Hex editor yang cepat dan ringan untuk inspeksi file biner, memory editing, dan disk editing.
+
+- [**DeepSound**](https://github.com/Jpinsoft/DeepSound)
+  Alat steganografi audio untuk menyembunyikan dan mengekstrak file rahasia di dalam file audio (WAV, MP3, FLAC, dll.).
+
+- [**dtmf-decoder**](https://github.com/ribt/dtmf-decoder)
+  Tool untuk mendeteksi dan mendekode sinyal nada telepon (DTMF) dari file rekaman audio.
+
+- [**peepdf**](https://github.com/jesparza/peepdf)
+  Tool analisis berbasis Python untuk memeriksa dan menganalisis file PDF yang mencurigakan atau mengandung eksploit.
+
+- [**stegoVeritas**](https://github.com/bannsec/stegoVeritas)
+  Tool otomatisasi steganografi gambar serbaguna yang mendukung berbagai macam metode ekstraksi dan analisis metadata/warna.
+
+- [**Infinite Storage Glitch**](https://github.com/KKarmugil/Infinite_Storage_Glitch/tree/main)
+  Tool untuk mengompresi dan menyematkan file apa pun ke dalam video YouTube dengan mengubah data biner menjadi frame visual.
+
+- [**png-unhide**](https://github.com/ryanking13/png-unhide)
+  Tool sederhana untuk mengembalikan gambar PNG yang dipotong atau disembunyikan tingginya dengan memperbaiki header IHDR.
+
+- [**unredacter**](https://github.com/BishopFox/unredacter)
+  Tool untuk merekonstruksi dan membaca teks yang disensor dengan efek pikselasi (pixelated redaction).
+
+- [**ANY.RUN**](http://any.run/)
+  Platform interactive malware analysis sandbox online untuk menganalisis malware dan perilaku aplikasi secara langsung.
+
+- [**LOLBAS**](https://lolbas-project.github.io/)
+  Proyek dokumentasi biner, skrip, dan library bawaan Windows yang dapat digunakan untuk aksi ofensif atau investigasi forensik.
+
+- [**msoffcrypto-tool**](https://github.com/nolze/msoffcrypto-tool)
+  Tool Python untuk mendekripsi dokumen Microsoft Office yang terenkripsi dan dilindungi kata sandi.
+
+- [**msoffcrypto-crack.py**](https://github.com/DidierStevens/DidierStevensSuite/blob/master/msoffcrypto-crack.py)
+  Skrip untuk melakukan brute-force atau pengujian kamus kata sandi pada file dokumen Microsoft Office yang terenkripsi.
+
+- [**xlmmacrodeobfuscator**](https://github.com/dissectmalware/xlmmacrodeobfuscator)
+  Tool untuk mendekode dan menganalisis makro Excel XLM (Excel 4.0 Macro) yang terobfuskasi tanpa perlu menjalankan Excel.
+
+- [**VirusTotal**](https://www.virustotal.com/gui/)
+  Layanan online untuk menganalisis file dan URL yang mencurigakan guna mendeteksi virus, worm, trojan, dan malware lainnya.
 
 ### Reverse Engineering
 
 - [**Ida64**](https://hex-rays.com/ida-free)
-  Adalah versi 64-bit dari IDA Pro, yaitu sebuah disassembler dan debugger yang digunakan untuk reverse engineering perangkat lunak. IDA64 secara khusus mendukung arsitektur 64-bit, memungkinkan analis untuk memeriksa dan membongkar kode biner yang berjalan pada sistem 64-bit.
+  Disassembler dan debugger industri untuk reverse engineering biner 64-bit.
 
 - [**Ghidra**](https://ghidra-sre.org/)
-  Sebuah reverse engineering tool open-source yang dikembangkan oleh National Security Agency (NSA) Amerika Serikat. Tool ini digunakan untuk menganalisis program biner atau executable tanpa memiliki source code-nya.
+  Software reverse engineering suite open-source yang dikembangkan oleh NSA untuk disassembling dan decompiling berbagai arsitektur.
+
+- [**gdsdecomp (GDRETools)**](https://github.com/GDRETools/gdsdecomp?tab=readme-ov-file)
+  Tool untuk mendekompresi, mengekstrak, dan mereverse engine game Godot (pck/exe).
+
+- [**AssetRipper**](https://github.com/AssetRipper/AssetRipper)
+  Tool GUI/CLI untuk mengekstrak aset dan merekonstruksi proyek Unity engine dari build game.
+
+- [**Decompiler.com**](https://www.decompiler.com/)
+  Layanan decompiler online untuk berbagai bahasa dan platform seperti Java, Android APK, .NET, Python, dll.
+
+- [**Dogbolt**](https://dogbolt.org/)
+  Platform decompiler online interaktif yang membandingkan output dekompilasi dari berbagai decompiler (Ghidra, IDA Pro, Binary Ninja, Angr, dll.).
+
+- [**Exeinfo ASL**](https://github.com/ExeinfoASL/ASL)
+  Signature dan database unpacker/detector untuk Exeinfo PE guna mendeteksi packer dan protektor executable.
+
+- [**JetBrains dotPeek**](https://www.jetbrains.com/decompiler/)
+  Decompiler .NET gratis untuk membongkar dan mendekompilasi assembly .NET ke kode C# yang setara.
+
+- [**dnSpy**](https://github.com/dnSpy/dnSpy/)
+  Debugger dan assembly editor .NET untuk reverse engineering, modifikasi, dan debugging aplikasi .NET.
+
+- [**Il2CppDumper**](https://github.com/Perfare/Il2CppDumper)
+  Tool untuk merestorasi file DLL, struktur class, fungsi, dan metadata dari binary Unity IL2CPP.
+
+- [**MelonLoader**](https://github.com/LavaGang/MelonLoader)
+  Mod loader universal untuk game berbasis Unity (Mono dan IL2CPP) guna memodifikasi dan memonitor runtime game.
+
+- [**UnityExplorer**](https://github.com/sinai-dev/UnityExplorer)
+  In-game UI explorer untuk game Unity yang memungkinkan inspeksi Scene, GameObject, dan manipulasi memori secara real-time.
+
+- [**blutter**](https://github.com/worawit/blutter)
+  Tool reverse engineering untuk aplikasi mobile berbasis Flutter (Dart AOT binaries).
+
+- [**Pyinstxtractor Web**](https://pyinstxtractor-web.netlify.app/)
+  Versi web dari PyInstaller Extractor untuk mengekstrak file Python bytecode (.pyc) dari executable PyInstaller langsung di browser.
+
+- [**Pyarmor-Static-Unpack-1shot**](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot)
+  Tool untuk membongkar dan deobfuskasi skrip Python yang diproteksi menggunakan Pyarmor.
+
+- [**RPG Maker MV Decrypter**](https://petschko.org/tools/mv_decrypter/index.html#home)
+  Tool online untuk mendekripsi file aset gambar, audio, dan resource game yang dibuat dengan RPG Maker MV/MZ.
+
+### Cryptography
+
+- [**FactorDB**](https://factordb.com/)
+  Database online untuk mencari faktorisasi bilangan bulat besar (sangat berguna untuk serangan RSA).
+
+- [**Crypton**](https://github.com/ashutosh1206/Crypton/)
+  Kumpulan artikel, konsep, dan skrip implementasi serangan kriptografi untuk CTF.
+
+- [**MD5 Collision**](https://www.mathstat.dal.ca/~selinger/md5collision/)
+  Artikel dan contoh implementasi pembuatan dua program executable berbeda dengan nilai hash MD5 yang sama (collision).
+
+- [**quipqiup**](https://quipqiup.com/)
+  Alat online otomatis untuk memecahkan sandi substitusi monoalfabetik (classical cipher).
+
+- [**SageMath Cell Server**](https://sagecell.sagemath.org/)
+  Platform online untuk menjalankan skrip SageMath dan Python secara instan di browser.
+
+- [**SHA-1 Collision Attack Guide**](https://www.linkedin.com/pulse/using-sha1-collision-attack-solve-bostonkeyparty-ctf-rotimi/)
+  Artikel panduan pemanfaatan collision attack pada SHA-1 untuk menyelesaikan tantangan CTF.
+
+- [**IACR ePrint**](https://eprint.iacr.org/)
+  Arsip publikasi dan paper penelitian ilmiah terbaru seputar riset kriptografi dunia.
+
+- [**CryptoBook (CryptoHack)**](https://cryptohack.gitbook.io/cryptobook)
+  Buku panduan online mengenai teori dan implementasi kriptografi modern untuk CTF.
+
+- [**crypto-attacks**](https://github.com/jvdsn/crypto-attacks)
+  Repositori skrip SageMath dan Python untuk berbagai serangan kriptografi (RSA, ECC, Lattice, dll.).
+
+### Web Exploitation
+
+- [**webcrack**](https://webcrack.netlify.app/)
+  Tool deobfuskasi JavaScript online untuk membongkar bundle (Webpack, dll.) dan merapikan kode JS yang terobfuskasi.
+
+- [**token.dev**](https://token.dev/)
+  Alat inspeksi, decoding, dan analisis token autentikasi (JWT, PASETO, Macaroon, dll.).
+
+- [**jwt.io**](https://jwt.io/)
+  Platform online untuk mendekode, memverifikasi, dan membuat JSON Web Token (JWT).
+
+- [**Request Catcher**](https://requestcatcher.com/)
+  Layanan penerima HTTP request instan untuk menguji SSRF, XSS callback, atau exfiltrasi data web.
+
+- [**PayloadsAllTheThings**](https://github.com/swisskyrepo/payloadsallthethings)
+  Repositori cheatsheet dan kumpulan payload terlengkap untuk eksploitasi web dan uji penetrasi.
+
+### Miscellanous
+
+- [**PGP**](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
+  Pretty Good Privacy (PGP) adalah program keamanan yang digunakan untuk mendekripsi dan mengenkripsi email serta mengautentikasi pesan email melalui tanda tangan digital dan enkripsi file.
+
+- [**Desmos Graphing Calculator**](https://www.desmos.com/calculator)
+  Kalkulator grafik matematika interaktif online untuk visualisasi fungsi, titik koordinat, dan plot geometri.
+
+- [**PineTools Split Image**](https://pinetools.com/split-image)
+  Alat online untuk memotong dan membagi gambar menjadi beberapa bagian/grid (kolom dan baris).
+
+### Osint
+
+- [**Shadow Finder**](https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb#scrollTo=THK5ucX5vpP9)
+  Alat untuk memperkirakan titik-titik di permukaan Bumi tempat bayangan dengan panjang tertentu dapat terjadi, untuk tujuan geolokasi.
 
 ### Teks Editor
 
 - [**VSCode**](https://code.visualstudio.com/)
-  Visual Studio Code (VSCode) adalah editor kode sumber ringan dan gratis dari Microsoft, mendukung banyak bahasa pemrograman. Cocok untuk CTF karena fitur seperti terminal terintegrasi, ekstensi debugging, Git, dan dukungan berbagai bahasa seperti Python, C, dan JavaScript.
+  Visual Studio Code (VSCode) adalah editor kode sumber ringan dan gratis dari Microsoft, mendukung banyak bahasa pemrograman.
 
-- [**Gheany**](https://www.geany.org/download/third-party/)
-  Geany adalah editor teks yang dirancang untuk menjadi ringan dan cepat, namun menyediakan beberapa fitur yang membuatnya berguna untuk berbagai tujuan.
+- [**Geany**](https://www.geany.org/download/third-party/)
+  Geany adalah editor teks yang dirancang untuk menjadi ringan dan cepat dengan fitur IDE terpadu.
+
 - [**SublimeText4**](https://www.sublimetext.com/download)
-  Sublime Text adalah salah satu editor teks paling populer di dunia. Itu penuh dengan fitur canggih seperti pengeditan multi-baris
+  Sublime Text adalah editor teks populer berkecepatan tinggi dengan fitur canggih seperti pengeditan multi-baris.
+
+## Playground
+
+### General
+
+- [**picoCTF**](https://picoctf.org/)
+  Platform pembelajaran dan kompetisi CTF gratis yang ramah untuk pemula dengan berbagai tantangan kategori.
+
+- [**TryHackMe**](https://tryhackme.com/)
+  Platform hands-on cyber security dengan lab virtual interaktif terpandu dari level pemula hingga menengah.
+
+- [**Hack The Box**](https://www.hackthebox.com/)
+  Platform pelatihan penetration testing dan cybersecurity tingkat lanjut dengan berbagai mesin dan tantangan CTF.
+
+### Forensic
+
+- [**CyberDefenders**](https://cyberdefenders.org/)
+  Platform latihan investigasi dan tantangan blue team / digital forensics berbasis skenario dunia nyata.
+
+- [**Blue Team Labs Online**](https://blueteamlabs.online/)
+  Platform pembelajaran gamifikasi untuk pertahanan siber, forensik, threat hunting, dan analisis insiden.
+
+- [**HTB Sherlocks**](https://www.hackthebox.com/blog/htb-sherlocks-dedicated-labs)
+  Lab khusus dari Hack The Box yang berfokus pada investigasi insiden, memory forensics, dan investigasi SOC.
+
+- [**MemLabs**](https://github.com/stuxnet999/MemLabs)
+  Koleksi tantangan CTF memory forensics bertingkat untuk latihan analisis dump memori.
+
+### Cryptography
+
+- [**CryptoHack**](https://cryptohack.org/)
+  Platform interaktif yang menyenangkan untuk mempelajari kriptografi modern melalui pemecahan tantangan kode praktis.
