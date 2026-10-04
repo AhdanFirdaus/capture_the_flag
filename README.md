@@ -13,6 +13,9 @@
 - [**Belajar Web Exploitation**](https://portswigger.net/)
   Platform populer untuk belajar keamanan web, khususnya web exploitation. Melalui PortSwigger Web Security Academy, kamu bisa belajar berbagai teknik eksploitasi web seperti SQL Injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), dan banyak lagi.
 
+- [**Belajar PWN / Binary Exploitation**](https://ir0nstone.gitbook.io/notes/misc/pwntools)
+  Panduan dan catatan lengkap seputar binary exploitation (PWN), mulai dari konsep dasar buffer overflow, format string, heap exploitation, hingga otomatisasi exploit menggunakan Pwntools.
+
 ## Channel youtube mengenai cyber security atau ctf
 
 - [**John Hammond**](https://www.youtube.com/@_JohnHammond)
@@ -274,6 +277,17 @@
 - [**PayloadsAllTheThings**](https://github.com/swisskyrepo/payloadsallthethings)
   Repositori cheatsheet dan kumpulan payload terlengkap untuk eksploitasi web dan uji penetrasi.
 
+### Binary Exploitation (PWN)
+
+- [**ir0nstone notes**](https://ir0nstone.gitbook.io/notes/misc/pwntools)
+  Catatan dan panduan komprehensif seputar binary exploitation (PWN), teknik eksploitasi stack/heap, serta penggunaan library Pwntools.
+
+- [**Nightmare**](https://github.com/guyinatuxedo/nightmare)
+  Repositori kursus komprehensif untuk belajar reverse engineering dan binary exploitation praktis berbasis tantangan CTF nyata.
+
+- [**Crypto-Cat**](https://github.com/Crypto-Cat)
+  Kumpulan repositori, panduan, materi, dan skrip latihan CTF untuk berbagai kategori seperti PWN, Binary Exploitation, dan Kriptografi.
+
 ### Miscellanous
 
 - [**PGP**](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
@@ -332,3 +346,11 @@
 
 - [**CryptoHack**](https://cryptohack.org/)
   Platform interaktif yang menyenangkan untuk mempelajari kriptografi modern melalui pemecahan tantangan kode praktis.
+
+### Binary Exploitation (PWN)
+
+- [**ROP Emporium**](https://ropemporium.com/)
+  Platform tantangan bertingkat untuk mempelajari dan melatih teknik Return-Oriented Programming (ROP) pada binary exploitation arsitektur x86 dan x64.
+
+- [**pwnable.tw**](https://pwnable.tw/)
+  Platform wargame CTF tingkat lanjut yang menyediakan berbagai tantangan binary exploitation (PWN) berkualitas tinggi.
