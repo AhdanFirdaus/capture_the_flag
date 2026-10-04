@@ -181,6 +181,9 @@
 - [**VirusTotal**](https://www.virustotal.com/gui/)
   Layanan online untuk menganalisis file dan URL yang mencurigakan guna mendeteksi virus, worm, trojan, dan malware lainnya.
 
+- [**Eric Zimmerman's Tools**](https://ericzimmerman.github.io/)
+  Koleksi suite tool digital forensik Windows (EZ Tools) standar industri untuk analisis artefak sistem (MFT, Registry, Prefetch, Amcache, ShellBags, Event Logs, JumpLists, dll.).
+
 ### Reverse Engineering
 
 - [**Ida64**](https://hex-rays.com/ida-free)
